@@ -14,7 +14,7 @@ This Unity project includes a script to control video playback using the spaceba
 
 ## Installation
 
-**Attach the `VideoController` script to the GameObject with the VideoPlayer component:**
+- Attach the `VideoController` script to the GameObject with the VideoPlayer component.
 
 ## Usage
 
